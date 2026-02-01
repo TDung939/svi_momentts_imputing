@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints
+.DS_Store
+.vscode/
+env/
+
+# Ignore data files
+data/
+*.csv
+*.xlsx
+*.h5
+*.parquet
+
+finetuned_models/*
